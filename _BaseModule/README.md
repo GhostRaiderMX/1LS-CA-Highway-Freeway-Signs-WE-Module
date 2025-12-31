@@ -5,7 +5,7 @@ Hello Cities: Skylines II civil engineers! This is a **Write Everywhere Module**
 ## Features
 
 - 1 Lane (Small) California Highway (Freeway) signs inspired by California's MUTCD
-- 35 total signs (see screenshots)
+- 37 total signs (see screenshots)
 - WE Layout included for easy implementation onto your highways (freeways)
 
 ## How to Use
